@@ -16,6 +16,7 @@
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="/web_responsivo/01_introducao">01 - Entrada, Processamento e Saída</a></li>
             <li><a class="dropdown-item" href="/web_responsivo/02_lacos">02 - Laço de Repetição</a></li>
+            <li><a class="dropdown-item" href="/web_responsivo/03_array">03 - Array</a></li>
             <li><a class="dropdown-item" href="#">Continua ...</a></li>
           </ul>
         </li>
