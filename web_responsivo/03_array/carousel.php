@@ -10,7 +10,7 @@
 
 
 <?php
-$dir    = '/opt/lampp/htdocs/web_responsivo/03_array/img';
+$dir    = 'C:/wamp64/www/web_responsivo/03_array/img';
 $files = scandir($dir);
 
 ?>

@@ -7,7 +7,7 @@
   <div class="row">
 
   <?php
-  $dir    = '/opt/lampp/htdocs/web_responsivo/03_array/img';
+  $dir    = 'C:/wamp64/www/web_responsivo/03_array/img';
   $files = scandir($dir);
   foreach($files as $file){
     if($file != "." AND $file != "..") {

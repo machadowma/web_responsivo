@@ -17,14 +17,7 @@
             <li><a class="dropdown-item" href="/web_responsivo/01_introducao">01 - Entrada, Processamento e Saída</a></li>
             <li><a class="dropdown-item" href="/web_responsivo/02_lacos">02 - Laço de Repetição</a></li>
             <li><a class="dropdown-item" href="/web_responsivo/03_array">03 - Array</a></li>
-            <li><a class="dropdown-item" href="#">Continua ...</a></li>
-          </ul>
-        </li>
-
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Banco de Dados</a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/web_responsivo/banco_de_dados/01_lista">01 - Lista responsiva</a></li>
+            <li><a class="dropdown-item" href="/web_responsivo/04_bd_lista">04 - BD/Lista responsiva</a></li>
             <li><a class="dropdown-item" href="#">Continua ...</a></li>
           </ul>
         </li>
