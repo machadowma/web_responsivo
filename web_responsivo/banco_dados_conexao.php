@@ -2,7 +2,7 @@
 try {
 
 	$host='localhost';
-	$db = 'meubanco';
+	$db = 'meu_banco';
 	$username = 'root';
 	$password = 'ifsp';
 	$dbh = new PDO('mysql:host='.$host.';dbname='.$db.'', $username, $password);

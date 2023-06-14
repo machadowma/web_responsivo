@@ -18,6 +18,7 @@
             <li><a class="dropdown-item" href="/web_responsivo/02_lacos">02 - Laço de Repetição</a></li>
             <li><a class="dropdown-item" href="/web_responsivo/03_array">03 - Array</a></li>
             <li><a class="dropdown-item" href="/web_responsivo/04_bd_lista">04 - BD/Lista responsiva</a></li>
+            <li><a class="dropdown-item" href="/web_responsivo/05_bd_cadastro">05 - BD/Tela de Cadastro</a></li>
             <li><a class="dropdown-item" href="#">Continua ...</a></li>
           </ul>
         </li>

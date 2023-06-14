@@ -1,4 +1,4 @@
-CREATE DATABASE meubanco;
+CREATE DATABASE meu_banco;
 USE meu_banco;
 CREATE TABLE minha_tabela (
     id INTEGER AUTO_INCREMENT PRIMARY KEY
