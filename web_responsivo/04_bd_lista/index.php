@@ -40,20 +40,6 @@
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <td>Aqui vai o ID</td>
-          <td>Aqui vai o valor da coluna 01</td>
-          <td>Aqui vai o valor da coluna 02</td>
-          <td>Aqui vai o valor da coluna 03</td>
-          <td>Aqui vai o valor da coluna 04</td>
-          <td>Aqui vai o valor da coluna 05</td>
-          <td>Aqui vai o valor da coluna 06</td>
-          <td>Aqui vai o valor da coluna 07</td>
-          <td>Aqui vai o valor da coluna 08</td>
-          <td>Aqui vai o valor da coluna 09</td>
-          <td>Aqui vai o valor da coluna 10</td>
-        </tr>
-
         <?php
           include("../banco_dados_conexao.php");
           try {
