@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+
+function minha_funcao(){
+    document.getElementById("demo").innerHTML = "Essa é minha função!!"
+}
+
+function arredondar_float(num){
+    num = parseFloat(num);
+    document.getElementById("demo").innerHTML = "toFixed define a quantidade de números decimais: " + num + " -> " + num.toFixed(2);
+}
+
+        </script>
+    </head>
+<body>
+
+    <h2>Clique nos botões para chamar funções</h2>
+
+    <button type="button" onclick='minha_funcao()'>Chamar minha função</button>
+
+    <button type="button" onclick="document.getElementById('demo').innerHTML = Date()"> Chamar função Date()</button>
+
+    <button type="button" onclick="document.getElementById('demo').innerHTML = Math.pow(2,3)"> 2 elevado a 3 </button>
+    
+    <button type="button" onclick="alert('Dar um alerta com uma mensagem na tela')"> Chamar função  alert() </button>
+
+    <button type="button" onclick="arredondar_float(3.14159265359)"> Arredondar Float </button>
+
+    <p id="demo"></p>
+
+
+</body>
+</html> 

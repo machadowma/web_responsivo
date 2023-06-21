@@ -58,13 +58,20 @@
     <img src="/web_responsivo/img/trash.png" width="15" /> Excluir
 </a>
 
+<a href="editar_formulario.php?id=<?php echo $id; ?>" class="btn btn-info text-white">
+    <img src="/web_responsivo/img/pencil.png" width="15" /> Editar
+</a>
+
 <br><br>
 
 <a href="index.php">Voltar</a>
 
 <br><br>
 Fontes:
-<br> <a href="https://www.flaticon.com/free-icons/trash" >https://www.flaticon.com/free-icons/trash</a>
+<ul>
+<li><a href="https://www.flaticon.com" target="new">https://www.flaticon.com</a></li>
+</ul>
+
 
 
 </div>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="myScript.js"></script>
+</head>
+<body>
+
+<h2>JavaScript if</h2>
+
+<p>Exibe bom dia, boa tarde ou boa noite, conforme o horário</p>
+
+<p id="demo"></p>
+
+<script>
+  const data = new Date();
+  let hora = data.getHours();
+  if (hora < 12) {
+    document.getElementById("demo").innerHTML = "Bom dia!";
+  } else if (hora<18) {
+    document.getElementById("demo").innerHTML = "Boa tarde!";
+  } else {
+    document.getElementById("demo").innerHTML = "Boa noite!";
+  }
+</script>
+
+</body>
+</html>
